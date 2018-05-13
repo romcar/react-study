@@ -1,0 +1,25 @@
+{
+  "name": "react-study",
+  "version": "1.0.0",
+  "description": "A study of react with babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romcar/react-study.git"
+  },
+  "author": "Erwin Carrasquilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romcar/react-study/issues"
+  },
+  "homepage": "https://github.com/romcar/react-study#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "chai": "^4.1.2",
+    "create-react-app": "^1.5.2",
+    "mocha": "^5.1.1"
+  }
+}
